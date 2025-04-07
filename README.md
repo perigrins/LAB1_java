@@ -1,4 +1,4 @@
-# Project made withing the course **Programming languages for biomedical applications**.
+# Project made within the course **Programming languages for biomedical applications**.
 Written in Java. Contents:
 1. Heron formula
 2. Intersection of sets
